@@ -1,0 +1,86 @@
+{
+    "1": [
+        {
+            "nome": "Julio Cesar",
+            "salario": 10000.0
+        },
+        {
+            "nome": "Aliffer Manenti",
+            "salario": 35000.0
+        },
+        {
+            "nome": "Ronald Nunes",
+            "salario": 4000.0
+        },
+        {
+            "nome": "Rodrigo Maia",
+            "salario": 4000.0
+        },
+        {
+            "nome": "Carla Andrade",
+            "salario": 2500.0
+        },
+        {
+            "nome": "Joao Roberto",
+            "salario": 1400.0
+        },
+        {
+            "nome": "Juliana Nunes",
+            "salario": 4000.0
+        }
+    ],
+    "2": [
+        {
+            "nome": "Miriam Silva",
+            "salario": 3000.0
+        },
+        {
+            "nome": "Felipe Moretti",
+            "salario": 8000.0
+        },
+        {
+            "nome": "Melissa Moura",
+            "salario": 5000.0
+        },
+        {
+            "nome": "Julia Roberta",
+            "salario": 3500.0
+        }
+    ],
+    "3": [
+        {
+            "nome": "Jaqueline Mara",
+            "salario": 2500.0
+        },
+        {
+            "nome": "Silvio Luiz",
+            "salario": 5000.0
+        }
+    ],
+    "4": [
+        {
+            "nome": "Marcos Fonseca",
+            "salario": 3500.0
+        },
+        {
+            "nome": "Divina Silva",
+            "salario": 2300.0
+        },
+        {
+            "nome": "Leonardo Jose",
+            "salario": 7000.0
+        },
+        {
+            "nome": "Alessandro Michel",
+            "salario": 15000.0
+        },
+        {
+            "nome": "Jose Vicente",
+            "salario": 3000.0
+        },
+        {
+            "nome": "Gabriela Silva",
+            "salario": 3000.0
+        }
+    ]
+}
